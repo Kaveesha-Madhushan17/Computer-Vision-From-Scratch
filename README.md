@@ -1,7 +1,5 @@
 # Computer-Vision-From-Scratch
 
-# Computer Vision from Scratch
-
 This repository contains my hands-on implementation of the Computer Vision and Machine Learning concepts taught in the excellent [Computer Vision Playlist](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgmWYoSpY_2EJzPJjkke4Az) by the **visuara** YouTube channel.
 
 Instead of just copying the code, I am manually typing and building these projects from scratch while following the tutorials to build a deep, practical understanding of how vision models work under the hood.
