@@ -82,7 +82,7 @@ By implementing myself, I'm gaining deep understanding rather than just consumin
 
 Track my learning journey:
 
-- [-] Phase 1: Image Processing Fundamentals (Lectures 1-5)
+- [x] Phase 1: Image Processing Fundamentals (Lectures 1-5)
 - [ ] Phase 2: Classical Filters & Edge Detection (Lectures 6-10)
 - [ ] Phase 3: Feature Detection & Matching (Lectures 11-15)
 - [ ] Phase 4: Introduction to Neural Networks (Lectures 16-20)
